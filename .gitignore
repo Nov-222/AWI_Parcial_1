@@ -1,0 +1,9 @@
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Variables de entorno con claves y credenciales
+.env
+
+# Carpeta de datos generada por el contenedor de Postgres
+datos/
